@@ -7,7 +7,7 @@
   * [Want to do it](before_we_get_started/want_to_do_it.md)
 * [Finding Content](finding_content/README.md)
   * [RSS Feeds](finding_content/rss_feeds.md)
-  * [Zite/Flipboard](finding_content/ziteflipboard.md)
+  * [Flipboard](finding_content/ziteflipboard.md)
   * [Twitter \(lists, searches\)](finding_content/twitter_lists-_searches.md)
   * [Google Alerts](finding_content/google_alerts.md)
   * [Hootsuite](finding_content/hootsuite.md)
